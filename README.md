@@ -110,8 +110,7 @@ rosrun CentralNode starterSystem.py
 ![GP drawio](https://github.com/ebrahimabdelghfar/EwasteNonDestructiveDisassembly/assets/81301684/19acd6ee-6b94-4af5-b320-a5827037b2bb)
 
 # Full video
-
-https://github.com/ebrahimabdelghfar/EwasteNonDestructiveDisassembly/assets/81301684/bd3405e8-a57e-409f-bd26-478e25d90be8
+[Video](https://drive.google.com/file/d/1B_QV5dBfOrfLujZBoJEPz8wuouSdi38b/view?usp=sharing)
 
 # Resources 
 
