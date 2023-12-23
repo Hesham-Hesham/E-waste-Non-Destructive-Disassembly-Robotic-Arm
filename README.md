@@ -12,6 +12,10 @@
 
 The "E-waste Non-Destructive Disassembly Robot" project is a cutting-edge endeavor aimed at addressing the pressing issue of electronic waste (e-waste) through an innovative robotic system. The project focuses on developing a robot capable of disassembling electronic devices without causing damage, facilitating efficient recycling and reuse of valuable components.
 
+# Full video
+[Watch The Full Project Video Here ](https://drive.google.com/file/d/1B_QV5dBfOrfLujZBoJEPz8wuouSdi38b/view?usp=sharing)
+
+
 Key Features:
 
 * Utilizes the ABB IRB120 robotic manipulator as the core hardware platform.
@@ -109,8 +113,6 @@ rosrun CentralNode starterSystem.py
 # Integration
 ![GP drawio](https://github.com/ebrahimabdelghfar/EwasteNonDestructiveDisassembly/assets/81301684/19acd6ee-6b94-4af5-b320-a5827037b2bb)
 
-# Full video
-[Video](https://drive.google.com/file/d/1B_QV5dBfOrfLujZBoJEPz8wuouSdi38b/view?usp=sharing)
 
 # Resources 
 
