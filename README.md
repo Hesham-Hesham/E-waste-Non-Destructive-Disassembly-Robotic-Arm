@@ -27,7 +27,7 @@ Key Features:
 
 The project aims to contribute to sustainable e-waste management by offering an environmentally friendly and efficient solution for disassembling electronic devices. By enabling the safe extraction of valuable components, it promotes recycling and reduces the environmental impact of e-waste.
 
-# Feature
+# Main Capabilities
 * Pure Mechanical Tool changing algorithm
 * Detect screws and locate their position precisely.
 * Tool-changing algorithm that has 100% success in getting and returning tools.
